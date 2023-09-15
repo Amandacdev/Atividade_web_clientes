@@ -5,5 +5,4 @@ class ClienteEspecial extends Cliente {
         super(nome,cpf,conta);
         this.dependentes = new Array<Cliente>();
     }
-
 }

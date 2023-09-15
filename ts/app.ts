@@ -17,9 +17,3 @@ console.log('Conta Bonificada: ' + cb1.saldo);
 
 console.log('---------------------------------------');
 
-console.log('Testes para Clientes');
-
-clienteController.listar();
-
-
-
